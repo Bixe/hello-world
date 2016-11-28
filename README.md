@@ -1,2 +1,2 @@
 # hello-world
-Groundbreaking software
+Groundbreaking software written by Bixe.
